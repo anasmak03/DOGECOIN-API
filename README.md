@@ -1,2 +1,2 @@
 # DOGECOIN-API
-get currently price of dogecoin 
+get the currently price of dogecoin 
